@@ -1,6 +1,6 @@
 # What exactly is “growth  mindset”?
 
-One defintion of growth mindset reads
+One definition of growth mindset reads
 
 >A belief that human capacities are not fixed but can be developed over time
 
