@@ -1,2 +1,2 @@
-# reading-notes2
+# reading-notes
 Code 102 reading notes
