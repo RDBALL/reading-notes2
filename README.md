@@ -1,26 +1,15 @@
-This is where I will put my reading notes for code 102
+# What exactly is “growth  mindset”?
 
-## Welcome to GitHub Pages
+One defintion of growth mindset reads
 
-### Markdown
+>A belief that human capacities are not fixed but can be developed over time
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In my words, growth mindset is the belief that all skills can be learned or improved on with constant training or practice. This is the opposite of a fixed mindset where it is believed that all skills and talents are inherent to the individual and can not be gained unless you already are predisposed to succeed at that skill. My belief is that one should strive for greatness in their current endeavor but be mindful of personal limitations.
 
-```markdown```
+**Self reminders to stay in a growth mindset:**
+- The first person to accomplish a goal did not have a path to success laid out in front of them
+- Learn from others, ask questions, identify what did or did not work
+- Be able to identify what your weaknesses are and find ways to either improve upon them or work around them. 
 
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+My GitHub Profile [RDBALL](https://github.com/RDBALL)
