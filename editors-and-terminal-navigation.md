@@ -13,7 +13,7 @@ Software examples
 
 Software examples
 > Visual Studio Code  
-> xCode  
+> Xcode  
 > Atom  
 > pyCharm  
 
