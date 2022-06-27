@@ -1,4 +1,4 @@
-# Choosing a Text Editor and Navigating the Terminal
+# Text Editors and Navigating the Terminal
 
 ### **Text Editor:** Software that allows you to edit basic text
 
