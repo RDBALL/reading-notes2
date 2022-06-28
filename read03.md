@@ -1,3 +1,23 @@
+---
+title: Class notes navigation
+
+navigation:
+
+  - section: Class notes
+
+  - document: read01
+
+    label: Class 01
+
+  - document: read02
+
+    label: Class 02
+
+  - document: read03
+
+    label: Class 03
+---
+
 # Read: 03 Revisions and the Cloud
 
 ### Terms:
