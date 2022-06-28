@@ -41,12 +41,14 @@ Version control allows you to re-visit various versions of a file or set of file
 
 - Difficult for data to be truly lost
 
-Snapshot process:
-> A - git add class1.md class2.md / or git add .
+### **Snapshot process example:**
+> Add - git add class1.md class2.md / or git add .  | This adds files to be included in the snapshot  
 
-C
 
-P
+> Commit - git commit -m "message to be added to commit"  | This will stage files and add a commit message    
+
+
+> Push - git push origin main  | This pushes the staged snapshot to the repo  
 
 ## Setting up Git through the terminal
 
