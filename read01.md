@@ -1,3 +1,8 @@
+* [Home page](README)
+* [Class 01 learning about markdown](read01)
+* [Class 02 the coder's computer](read02)
+* [Class 03 git and GitHub](read03)
+
 # Markdown notes
 
 The Markdown design document is a simple syntax that can be used to stylize basic web based text. Using this syntax you can implement styling choices such as bold text, italicized text, strikethrough and a few other design choices. If you have ever replied to a post on a forum or used messaging apps on your phone you have more than likely already been exposed to using markdown for formatting .

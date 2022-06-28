@@ -1,22 +1,7 @@
----
-title: Class notes navigation
-
-navigation:
-
-  - section: Class notes
-
-  - document: read01
-
-    label: Class 01
-
-  - document: read02
-
-    label: Class 02
-
-  - document: read03
-
-    label: Class 03
----
+* [Home page](README)
+* [Class 01 learning about markdown](read01)
+* [Class 02 the coder's computer](read02)
+* [Class 03 git and GitHub](read03)
 
 # Read: 03 Revisions and the Cloud
 
