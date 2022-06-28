@@ -2,7 +2,7 @@
 * [Class 01 learning about markdown](read01)
 * [Class 02 the coder's computer](read02)
 * [Class 03 git and GitHub](read03)
-
+* [Class 04 HTML review](read04)
 
 # What exactly is “growth  mindset”?
 
