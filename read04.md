@@ -25,3 +25,20 @@ This is the same "look" as an '<    h1>' tag but the top code will not have the 
 
 
 Elements will make up the main content of an HTML file. One resource that goes in depth for what each element tag can do is located [here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+## What the heck are semantic elements??
+
+From FreeCode Camp
+
+> Elements such as <    header>, <  footer> and <   article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+
+In other words semantic elements make reading HTML easier if you are not too familiar with HTML. One example of that is shown below from [this site](https://www.freecodecamp.org/news/semantic-html5-elements/#:~:text=Semantic%20HTML%20elements%20are%20those,content%20that%20is%20inside%20them)
+
+**Semantic elements used** 
+
+### <   header></   header>  
+  
+
+**Non-semantic elements used**
+
+### <   div id="header"></  div>  
