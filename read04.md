@@ -4,6 +4,7 @@
 * [Class 03 git and GitHub](read03)
 * [Class 04 HTML review](read04)
 * [Class 05 CSS](read05)
+* [Class 06 JavaScript](read06)
 
 # Read 04: HTML review
 
