@@ -3,6 +3,7 @@
 * [Class 02 the coder's computer](read02)
 * [Class 03 git and GitHub](read03)
 * [Class 04 HTML review](read04)
+* [Class 05 CSS](read05)
 
 # Markdown notes
 
