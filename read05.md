@@ -19,7 +19,7 @@ CSS allows you to add style to the structure (HTML) of a webpage. The styles.css
 
 The above code would be placed within the <head> of the HTML document that you would like to stylize. 
 
-Let’s break down the above cde and see what it does.
+Let’s break down the above code and see what it does.
 
 - The initial <link> tag identifies that we are wanting to link something to this HTML page
 
