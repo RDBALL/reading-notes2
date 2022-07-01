@@ -5,6 +5,8 @@
 * [Class 04 HTML review](read04)
 * [Class 05 CSS](read05)
 * [Class 06 JavaScript](read06)
+* [Class 07 Programming with JS](read07)
+* [Class 08 Operators and Loops](read08)
 
 # Read: 05 - Design web pages with CSS
 
