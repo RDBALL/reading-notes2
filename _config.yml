@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 
----
 defaults:
   # _docs
   - scope:
@@ -9,4 +8,3 @@ defaults:
     values:
       sidebar:
         nav: "docs"
----
