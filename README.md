@@ -1,9 +1,3 @@
----
-
-_data: default
-
----
-
 * [Home page](https://rdball.github.io/reading-notes/)
 * [Class 01 learning about markdown](read01)
 * [Class 02 the coder's computer](read02)
